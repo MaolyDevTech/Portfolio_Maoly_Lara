@@ -49,10 +49,9 @@ Se você deseja contribuir para este projeto, siga estas etapas:
 4. Faça push para a branch. 
 5. Envie um pull request.
 
-git checkout -b minha-nova-feature
-git commit -m 'Adicionando uma nova feature'
-git push origin minha-nova-feature
-
+´´´ git checkout -b minha-nova-feature ´´´
+´´´ git commit -m 'Adicionando uma nova feature' ´´´
+´´´ git push origin minha-nova-feature ´´´
 
 **Agradecimentos:**
 
