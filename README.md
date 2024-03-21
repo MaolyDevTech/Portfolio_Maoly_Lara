@@ -44,9 +44,9 @@ Como Software Tester Developer, meu objetivo é não apenas garantir a qualidade
 Se você deseja contribuir para este projeto, siga estas etapas:
 
 1. Faça um fork deste repositório.
-2. Crie uma nova branch com o nome da sua feature (git checkout -b minha-nova-feature).
-3. Faça commit das suas alterações (git commit -m 'Adicionando uma nova feature').
-4. Faça push para a branch (git push origin minha-nova-feature).
+2. Crie uma nova branch com o nome da sua feature ( ´´´git checkout -b minha-nova-feature´´´).
+3. Faça commit das suas alterações (´´´git commit -m 'Adicionando uma nova feature'´´´).
+4. Faça push para a branch (´´´git push origin minha-nova-feature´´´).
 5. Envie um pull request.
 
 **Agradecimentos:**
